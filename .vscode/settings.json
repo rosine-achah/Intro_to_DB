@@ -1,0 +1,19 @@
+{
+  "sqltools.connections": [
+    {
+      "mysqlOptions": {
+        "authProtocol": "xprotocol",
+        "enableSsl": "Disabled"
+      },
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 33060,
+      "driver": "MySQL",
+      "name": "sqlserver",
+      "database": "alx_book_store",
+      "username": "root",
+      "connectionTimeout": 60,
+      "askForPassword": true
+    }
+  ]
+}
